@@ -1,0 +1,15 @@
+# Java / Gradle
+.gradle/
+build/
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+*.iml
